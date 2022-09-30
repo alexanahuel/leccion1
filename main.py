@@ -60,7 +60,7 @@ resultado = numero1 + numero2
 print("El resultado de la suma es: ", resultado)
 '''
 """
-operandoA = 8
+operandoA = 9
 operandoB = 5
 suma = operandoA + operandoB
 #print("Resultado de la suma:", suma)
